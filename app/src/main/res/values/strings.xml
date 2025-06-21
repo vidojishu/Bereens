@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bereens</string>
+    <string name="connection_error">Vérifiez votre connexion internet</string>
+    <string name="logo_content_description">Logo Bereens</string>
+</resources>
